@@ -3,3 +3,4 @@ function multiply() {
     var num2 = document.getElementById("secondNumber").value;
     document.getElementById("result").value = Number(num1) * Number(num2);
 
+}
